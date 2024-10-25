@@ -20,7 +20,7 @@ Started this script as a self-educational project but found it so useful that no
 
 ### Interactive Mode
 
-1. Run the script without any arguments.
+1. Run the script without sending any text via stdin.
 2. Type a message and press Enter to receive a response from the AI.
 3. Press Ctrl+C to exit.
 
