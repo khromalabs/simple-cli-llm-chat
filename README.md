@@ -8,7 +8,7 @@ Started this script as an self-educational project but found it so useful that n
 **Features**
 ------------
 
-* Supports as much LLM providers as LiteLLM supports
+* Supports as much LLM providers as [LiteLLM supports](https://litellm.vercel.app/docs/)
 * Configure your own servers as default servers
 * Automatic chat backup to a file
 * Interactive and non-interactive modes
