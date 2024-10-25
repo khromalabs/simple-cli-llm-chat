@@ -39,7 +39,7 @@ To see how you must define the model look in the [LiteLLM documentation](https:/
 **Configuration**
 ---------------
 
-* The script uses the `PROVIDERS` list to configure LLM providers. Add or modify providers as needed.
+* The script uses the `PROVIDERS` list to configure the default LLM providers. Is a good place to configure your own server(s).
 * The `BACKUP` variable specifies the file path for automatic chat backup.
 
 **Requirements**
