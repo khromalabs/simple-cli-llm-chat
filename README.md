@@ -32,7 +32,7 @@ Started this script as a self-educational project but found it so useful that no
 * `-h` or `--help`: Display usage information.
 * `-l` or `--light`: Use a light theme for the prompt.
 * `-s` or `--strip`: Extract only code blocks from the response in non-interactive mode.
-* `-m` or `--model`: Specify a custom LLM model.
+* `-m` or `--model`: Define the target LLM model.
 
 To see how you must define the model look in the [LiteLLM documentation](https://litellm.vercel.app/docs/providers), API keys must be defined using environment variables as defined there.
 
