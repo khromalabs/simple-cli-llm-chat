@@ -1,5 +1,3 @@
-Here is a README.md file for your script:
-
 **Simple CLI LLM Chat**
 ======================
 
