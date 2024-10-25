@@ -26,12 +26,9 @@ Started this script as an self-educational project but found it so useful that n
 
 ### Non-Interactive Mode
 
-1. Pipe a message to the script using `echo "message" | python script.py`.
+1. Pipe a message to the script using `echo "message" | python ai.py`.
 2. The script will process the message and print the response.
 3. Use the `-s` or `--strip` option to extract only code blocks from the response.
-
-### Options
-
 * `-h` or `--help`: Display usage information.
 * `-l` or `--light`: Use a light theme for the prompt.
 * `-s` or `--strip`: Extract only code blocks from the response in non-interactive mode.
