@@ -34,7 +34,7 @@ Started this script as a self-educational project but found it so useful that no
 * `-s` or `--strip`: Extract only code blocks from the response in non-interactive mode.
 * `-m` or `--model`: Define the target LLM model.
 
-To see how you must define the model look in the [LiteLLM documentation](https://litellm.vercel.app/docs/providers), API keys must be defined using environment variables as defined there.
+To see how you must define the model look in the [LiteLLM documentation](https://litellm.vercel.app/docs/providers), API keys must be defined using environment variables as described there.
 
 **Configuration**
 ---------------
