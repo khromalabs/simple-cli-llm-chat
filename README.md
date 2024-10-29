@@ -1,7 +1,7 @@
 **Simple CLI LLM Chat**
 ======================
 
-Simple python script which provides a CLI to interact with a Large Language Model (LLM) using the LiteLLM library.
+Simple CLI Python script to interact with LLMs using the LiteLLM library.
 
 Started this script as a self-educational project but found it so useful that now it has turned into my AI daily-driver.
 
